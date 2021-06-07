@@ -1,6 +1,5 @@
 # The backend to my Nitro Booster tutorial.
 
-Please do not resell or redestribute this in any way.
 
 
 **Step one:**
@@ -19,9 +18,8 @@ Then open the env file and add a variable for token then run the project.
 **Step three:**
 - Run ```npm i```(if hosting on a VPS other then heroku, repl, glitch etc.) and replace the express URL inside of the Script, at line 9.
 
- **Thats all to it! If you have any questions, feel free to DM me on discord or on any contact listing on DevForums.**
 
- patrick.#0723
+ Credit to Original Creator: patrick.#0723
 "# RoStatsNitroAPI" 
 "# RoStatsNitroAPI" 
 "# RoStatsNitroAPI" 
